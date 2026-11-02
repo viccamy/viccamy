@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20SEU%20NOME%20✨&fontColor=ffd6ef&fontSize=38&animation=twinkling&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20Vitória%20Camilly%20✨&fontColor=ffd6ef&fontSize=38&animation=twinkling&fontAlignY=38)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7EB6&center=true&vCenter=true&width=640&lines=Automação+que+libera+tempo+🌸;Operações+que+fazem+sentido+📊;Finanças+com+código+e+criatividade+💜)
 
@@ -21,8 +21,7 @@ Eu acredito que processos bem desenhados podem ser tão bonitos quanto eficiente
 
 ## 💜 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO) [![Email](https://img.shields.io/badge/Email-c77dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com) [![Portfólio](https://img.shields.io/badge/Portfólio-e0b3ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seu-site.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO) [![Email](https://img.shields.io/badge/Email-c77dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 ---
 
 ## 🛠️ Stack
@@ -38,16 +37,6 @@ Eu acredito que processos bem desenhados podem ser tão bonitos quanto eficiente
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&hide_border=false&bg_color=1a1025&title_color=ff7eb6&text_color=e8d9f5&border_color=ff7eb6)
 
 ![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&background=1a1025&border=ff7eb6&ring=ff7eb6&fire=c77dff&currStreakLabel=ff7eb6&dates=e8d9f5&sideLabels=e8d9f5&currStreakNum=ffffff)
-
----
-
-## 🌸 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🧾 **Conciliação Automática** | Script que cruza extratos bancários com planilhas de controle | Python, Pandas |
-| 📬 **Relatórios Semanais** | Automação que gera e envia relatórios operacionais por e-mail | Python, Automação |
-| 📊 **Dashboard Financeiro** | Painel interativo de indicadores com gráficos dinâmicos | JavaScript, HTML, CSS |
 
 ---
 
