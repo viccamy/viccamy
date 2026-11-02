@@ -47,6 +47,7 @@ Eu acredito que processos bem desenhados podem ser tão bonitos quanto eficiente
 
 ## 🌙 Fora do código
 
-Gosto de café com calma, de organizar tudo com cores e de testar ideias de automação para a rotina da casa. ☕🎀
+Gosto de tomar chá com calma, de organizar tudo e de testar ideias de automação.☕🎀
+Tenho três gatos e sou criativa. Faço crochê, canto, escrevo histórias e leio. 😺📖
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer)
