@@ -19,6 +19,20 @@ Eu acredito que processos bem desenhados podem ser tão bonitos quanto eficiente
 
 ---
 
+## 🎓 Em foco
+
+- 🧠 Pós-graduação *Lato Sensu* em **Inteligência Artificial**
+- 🏛️ Pós-graduação em **Governança em Tecnologia da Informação**
+
+---
+
+## ✨ Resultados
+
+- 🧾 Automatizei as rotinas de planilhas financeiras e de controle de **anuidades de patentes**
+- ⏱️ Reduzi em **90%** o tempo gasto nas tarefas repetitivas, que hoje se resumem a uma revisão rápida
+
+---
+
 ## 💜 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoriacamillylima/) [![Email](https://img.shields.io/badge/Email-c77dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorialima.contato@outlook.com)
@@ -28,12 +42,6 @@ Eu acredito que processos bem desenhados podem ser tão bonitos quanto eficiente
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-ff7eb6?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-c77dff?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-ffb3d9?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-e0b3ff?style=for-the-badge&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-ff9ecf?style=for-the-badge&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-d4a5ff?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Git](https://img.shields.io/badge/Git-ff7eb6?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas
-
-![Streak](https://streak-stats.demolab.com?user=viccamy&background=1a1025&border=ff7eb6&ring=ff7eb6&fire=c77dff&currStreakLabel=ff7eb6&dates=e8d9f5&sideLabels=e8d9f5&currStreakNum=ffffff)
 
 ---
 
